@@ -36,7 +36,7 @@ public class SieveOfEratosthenesService {
 
 /*
     Due to Bitset's use of int and doubling of int value in method
-    limiting maxInt ui input to half max int size (1073741823)
+    limiting maxInt in UI input
  */
 @Service
 public class SieveOfEratosthenesService {
